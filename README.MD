@@ -36,7 +36,7 @@ Utilizamos a própria conta google do usuário para realizar o Login no aplicati
 
 Ao logar, o usuário já pode realizar a visualização dos últimos serviços disponibilizados por outros usuários.
 
-<img src="https://raw.githubusercontent.com/JViniciusF/ServicoLX/master/imagens/Login.jpeg" width="400">
+<img src="https://raw.githubusercontent.com/JViniciusF/ServicoLX/master/imagens/Home.jpeg" width="400">
 
 ### Pesquisar :mag:
 
